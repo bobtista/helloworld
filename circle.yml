@@ -2,6 +2,3 @@ machine:
   python:
     version:
       3.5
-test:
-  post:
-    nosetests tests.py
